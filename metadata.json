@@ -1,0 +1,5 @@
+{
+  "name": "Trang Quản Lý Công Việc Cá Nhân",
+  "description": "Ứng dụng quản lý công việc cá nhân với tính năng theo dõi trạng thái, deadline và thống kê.",
+  "requestFramePermissions": []
+}
